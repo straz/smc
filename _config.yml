@@ -1,0 +1,13 @@
+# Site settings
+name: New Canaan Senior Men's Club
+email: paul@strassmann.com
+description: A club learning about investment strategies
+baseurl: ""      # site subpath, e.g. /blog/
+url: "http://www.newcanaan-smc.com" 
+timezone: America/New_York
+
+
+defaults:
+ -
+  values:
+     layout: "default"
