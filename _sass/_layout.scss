@@ -199,6 +199,10 @@ ul.toc {
  * Posts
  */
 
+.posts {
+  margin-top: 2em;
+}
+
 .post {
     background-color: blue;
     margin-top: calc(#{$spacing-unit} * 2);
