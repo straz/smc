@@ -8,9 +8,10 @@ function init(){
 }
 
 function label_cols(){
-  $('td').attr('align', 'right');
+  $('article > table td').attr('align', 'right');
   var headers = $('article > table > tbody>tr:first > td');
   replace_tags(headers, 'th');
+  $('article > table tr:nth-child(odd)').filter(':has(td)').addClass('odd');
   var today = find_column(headers,'Today')+1;
   var rows = $('article > table > tbody > tr');
   rows.each(function(){label_row(this, today);});
