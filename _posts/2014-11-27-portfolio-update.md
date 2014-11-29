@@ -2,6 +2,8 @@
 layout: post
 ---
 
+<script>var version = 1;</script>
+
 Value Line SMC Benchmark Portfolio
 
 

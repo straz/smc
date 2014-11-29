@@ -2,7 +2,9 @@ $(document).ready(init);
 
 function init(){
   $('.posts li p').append('&hellip;');
-  label_cols();
+  if (version == 1){
+    label_cols();
+  }
 }
 
 function label_cols(){
