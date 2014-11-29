@@ -6,7 +6,6 @@ layout: post
 
 Value Line SMC Benchmark Portfolio
 
-
 Symbol|Qty|Price|Mkt Value|Entry Date|Entry Price|Entry<br/>Comm.|Cost|Long/<br/>Short|Today's<br/>Change|Gain/Loss (%)
 AWK|100|$53.05|$5,305.00|10/26/2014|$51.91|$7.00|$-5,198.00|Long|$61.00|107 (2.1%)
 AAPL|100|$118.93|$11,893.00|11/02/2014|$108.00|$7.00|$-10,807.00|Long|$-7.00|1086 (10%)
