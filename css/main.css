@@ -139,6 +139,16 @@ a:visited { color: #205caa; }
   top: 3px;
 }
 
+.svg-icon {
+  height: 32px;
+  width: 32px;
+}
+
+.posts .svg-icon {
+  height: 16px;
+  width: 16px;
+}
+
 
 /* Page Content styles */
 /* ----------------------------------------------------------*/
